@@ -1,4 +1,4 @@
-# jupyterlab_apod
+# jupyterlab_apod e
 
 [![Github Actions Status](https://github.com/alexheat/jupyterlab_apod/workflows/Build/badge.svg)](https://github.com/alexheat/jupyterlab_apod/actions/workflows/build.yml)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexheat/jupyterlab_apod/main?urlpath=lab)
 A JupyterLab extension.
